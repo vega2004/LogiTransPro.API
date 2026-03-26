@@ -185,17 +185,15 @@ app.UseMiddleware<ErrorHandlingMiddleware>();
 app.UseMiddleware<RequestLoggingMiddleware>();
 
 // ======================================================
-// CONFIGURAR PIPELINE HTTP
+// CONFIGURAR PIPELINE HTTP - SWAGGER HABILITADO EN TODOS LOS ENTORNOS
 // ======================================================
-if (app.Environment.IsDevelopment())
+// Swagger habilitado para producción también
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI(c =>
-    {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "LogiTransPro API v1");
-        c.RoutePrefix = string.Empty;
-    });
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "LogiTransPro API v1");
+    c.RoutePrefix = string.Empty;
+});
 
 // ======================================================
 // USAR CORS

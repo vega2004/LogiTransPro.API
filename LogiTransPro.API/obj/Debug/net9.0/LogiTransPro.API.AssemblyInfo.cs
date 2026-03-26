@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogiTransPro.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c62c478e60bb3b52b44d995e1c4d895f66b0d7da")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogiTransPro.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogiTransPro.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
