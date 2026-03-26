@@ -1,0 +1,6 @@
+@LogiTransPro.API_HostAddress = http://localhost:5087
+
+GET {{LogiTransPro.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
