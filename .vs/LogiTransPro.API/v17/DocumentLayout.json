@@ -5,6 +5,106 @@
     {
       "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\controllers\\rutascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\controllers\\rutascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\controllers\\viajescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\controllers\\viajescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\ordencarga\\ordencargaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\ordencarga\\ordencargaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\viaje\\viajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\viaje\\viajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\viaje\\iviajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\viaje\\iviajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\vehiculo\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\vehiculo\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\vehiculo\\ivehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\vehiculo\\ivehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\ruta\\rutaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\ruta\\rutaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\ruta\\irutaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\ruta\\irutaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\controllers\\ordenescargacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\controllers\\ordenescargacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\ordencarga\\iordencargaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\ordencarga\\iordencargaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\mantenimiento\\mantenimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\mantenimiento\\mantenimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\mantenimiento\\imantenimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\mantenimiento\\imantenimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\dashboard\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\dashboard\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\dashboard\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\dashboard\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\cliente\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\cliente\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\cliente\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\cliente\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|c:\\users\\alexander vega\\source\\patrones de dise\u00F1o\\logitranspro.api\\logitranspro.api\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D4D1D4-DDAC-402E-8586-F5E04DE6F4C7}|LogiTransPro.API\\LogiTransPro.API.csproj|solutionrelative:logitranspro.api\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,15 +150,340 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViajesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\ViajesController.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Controllers\\ViajesController.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\ViajesController.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Controllers\\ViajesController.cs",
+              "ViewState": "AgIAALkAAAAAamZmZmYWwMoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:15:13.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdenCargaService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\OrdenCarga\\OrdenCargaService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\OrdenCarga\\OrdenCargaService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\OrdenCarga\\OrdenCargaService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\OrdenCarga\\OrdenCargaService.cs",
+              "ViewState": "AgIAAAEAAAAAWJmZmZn1v8kAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:14:22.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RutasController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\RutasController.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Controllers\\RutasController.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\RutasController.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Controllers\\RutasController.cs",
+              "ViewState": "AgIAAE0AAACw//////8nwFsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:14:43.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MantenimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\MantenimientoController.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Controllers\\MantenimientoController.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\MantenimientoController.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Controllers\\MantenimientoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:14:11.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Program.cs",
               "RelativeDocumentMoniker": "LogiTransPro.API\\Program.cs",
               "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Program.cs",
               "RelativeToolTip": "LogiTransPro.API\\Program.cs",
-              "ViewState": "AgIAAOcAAAAAAAAAAAAAwPEAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAPEAAADQMTMzMzMrwPAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T21:01:52.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViajeService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Viaje\\ViajeService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Viaje\\ViajeService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Viaje\\ViajeService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Viaje\\ViajeService.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAwwEUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:15:08.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IViajeService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Viaje\\IViajeService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Viaje\\IViajeService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Viaje\\IViajeService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Viaje\\IViajeService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:15:03.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\VehiculosController.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Controllers\\VehiculosController.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\VehiculosController.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Controllers\\VehiculosController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAswMUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:14:58.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehiculoService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Vehiculo\\VehiculoService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Vehiculo\\VehiculoService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Vehiculo\\VehiculoService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Vehiculo\\VehiculoService.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAwwCQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:14:53.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IVehiculoService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Vehiculo\\IVehiculoService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Vehiculo\\IVehiculoService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Vehiculo\\IVehiculoService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Vehiculo\\IVehiculoService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:14:49.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RutaService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Ruta\\RutaService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Ruta\\RutaService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Ruta\\RutaService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Ruta\\RutaService.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAowDABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:14:38.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRutaService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Ruta\\IRutaService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Ruta\\IRutaService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Ruta\\IRutaService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Ruta\\IRutaService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:14:33.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdenesCargaController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\OrdenesCargaController.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Controllers\\OrdenesCargaController.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\OrdenesCargaController.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Controllers\\OrdenesCargaController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAkwMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:14:27.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrdenCargaService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\OrdenCarga\\IOrdenCargaService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\OrdenCarga\\IOrdenCargaService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\OrdenCarga\\IOrdenCargaService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\OrdenCarga\\IOrdenCargaService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:14:17.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MantenimientoService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Mantenimiento\\MantenimientoService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Mantenimiento\\MantenimientoService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Mantenimiento\\MantenimientoService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Mantenimiento\\MantenimientoService.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAswN8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:14:06.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMantenimientoService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Mantenimiento\\IMantenimientoService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Mantenimiento\\IMantenimientoService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Mantenimiento\\IMantenimientoService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Mantenimiento\\IMantenimientoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:14:01.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:13:55.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Dashboard\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Dashboard\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Dashboard\\IDashboardService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Dashboard\\IDashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:13:48.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Dashboard\\DashboardService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Dashboard\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Dashboard\\DashboardService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Dashboard\\DashboardService.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAowJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:13:43.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:13:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Cliente\\IClienteService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Cliente\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Cliente\\IClienteService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Cliente\\IClienteService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:13:24.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Cliente\\ClienteService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Cliente\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Cliente\\ClienteService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Cliente\\ClienteService.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAwwJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:13:16.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:13:08.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Auth\\JWTService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Auth\\JWTService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Auth\\JWTService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Auth\\JWTService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:13:01.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Auth\\IAuthService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Auth\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Auth\\IAuthService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Auth\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:12:54.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "LogiTransPro.API\\Services\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Alexander Vega\\source\\Patrones de Dise\u00F1o\\LogiTransPro.API\\LogiTransPro.API\\Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "LogiTransPro.API\\Services\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAswPQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:12:48.273Z",
               "EditorCaption": ""
             }
           ]

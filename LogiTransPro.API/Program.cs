@@ -32,23 +32,26 @@ builder.Host.UseSerilog((context, config) =>
 });
 
 // ======================================================
-// CONFIGURAR CORS (PARA FRONTEND VUE.JS)
+// CONFIGURAR CORS (PARA FRONTEND VUE.JS Y PRODUCCIÓN)
 // ======================================================
 builder.Services.AddCors(options =>
 {
+    // Política para desarrollo con orígenes específicos
     options.AddPolicy("AllowVueFrontend", policy =>
     {
         policy.WithOrigins(
                 "http://localhost:8080",
                 "http://localhost:3000",
                 "http://localhost:5173",
-                "https://localhost:5173"
+                "https://localhost:5173",
+                "https://logitransproapi-production.up.railway.app"
             )
             .AllowAnyMethod()
             .AllowAnyHeader()
             .AllowCredentials();
     });
 
+    // Política para pruebas en producción (permite cualquier origen)
     options.AddPolicy("AllowAll", policy =>
     {
         policy.AllowAnyOrigin()
@@ -196,9 +199,9 @@ app.UseSwaggerUI(c =>
 });
 
 // ======================================================
-// USAR CORS
+// USAR CORS - Usar AllowAll para producción (permite cualquier origen)
 // ======================================================
-app.UseCors("AllowVueFrontend");
+app.UseCors("AllowAll");  // Cambiado para permitir cualquier origen en producción
 
 app.UseHttpsRedirection();
 app.UseAuthentication();
