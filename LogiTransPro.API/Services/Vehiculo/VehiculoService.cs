@@ -20,6 +20,21 @@ namespace LogiTransPro.API.Services.Vehiculo
         }
 
         // ======================================================
+        // MÉTODO AUXILIAR PARA FORMATEAR KILOMETRAJE
+        // ======================================================
+        private void FormatearKilometraje(VehiculoDTO vehiculoDTO)
+        {
+            if (vehiculoDTO.KilometrajeActual == 0)
+            {
+                vehiculoDTO.KilometrajeTexto = "No registrado";
+            }
+            else
+            {
+                vehiculoDTO.KilometrajeTexto = $"{vehiculoDTO.KilometrajeActual:N0} km";
+            }
+        }
+
+        // ======================================================
         // LISTADOS
         // ======================================================
 
@@ -30,7 +45,14 @@ namespace LogiTransPro.API.Services.Vehiculo
                 .OrderBy(v => v.Placa)
                 .ToListAsync();
 
-            return _mapper.Map<List<VehiculoDTO>>(vehiculos);
+            var vehiculosDTO = _mapper.Map<List<VehiculoDTO>>(vehiculos);
+
+            foreach (var vehiculo in vehiculosDTO)
+            {
+                FormatearKilometraje(vehiculo);
+            }
+
+            return vehiculosDTO;
         }
 
         public async Task<List<VehiculoDTO>> GetDisponiblesAsync()
@@ -40,7 +62,14 @@ namespace LogiTransPro.API.Services.Vehiculo
                 .OrderBy(v => v.Placa)
                 .ToListAsync();
 
-            return _mapper.Map<List<VehiculoDTO>>(vehiculos);
+            var vehiculosDTO = _mapper.Map<List<VehiculoDTO>>(vehiculos);
+
+            foreach (var vehiculo in vehiculosDTO)
+            {
+                FormatearKilometraje(vehiculo);
+            }
+
+            return vehiculosDTO;
         }
 
         // ======================================================
@@ -52,7 +81,12 @@ namespace LogiTransPro.API.Services.Vehiculo
             var vehiculo = await _context.Vehiculos
                 .FirstOrDefaultAsync(v => v.Placa == placa && v.Activo);
 
-            return vehiculo != null ? _mapper.Map<VehiculoDTO>(vehiculo) : null;
+            if (vehiculo == null) return null;
+
+            var vehiculoDTO = _mapper.Map<VehiculoDTO>(vehiculo);
+            FormatearKilometraje(vehiculoDTO);
+
+            return vehiculoDTO;
         }
 
         public async Task<VehiculoDTO?> GetByVinAsync(string vin)
@@ -60,7 +94,12 @@ namespace LogiTransPro.API.Services.Vehiculo
             var vehiculo = await _context.Vehiculos
                 .FirstOrDefaultAsync(v => v.Vin == vin && v.Activo);
 
-            return vehiculo != null ? _mapper.Map<VehiculoDTO>(vehiculo) : null;
+            if (vehiculo == null) return null;
+
+            var vehiculoDTO = _mapper.Map<VehiculoDTO>(vehiculo);
+            FormatearKilometraje(vehiculoDTO);
+
+            return vehiculoDTO;
         }
 
         // ======================================================
@@ -93,7 +132,10 @@ namespace LogiTransPro.API.Services.Vehiculo
             _logger.LogInformation("Vehículo creado: {Placa} - {Marca} {Modelo}",
                 vehiculo.Placa, vehiculo.Marca, vehiculo.Modelo);
 
-            return _mapper.Map<VehiculoDTO>(vehiculo);
+            var vehiculoDTO = _mapper.Map<VehiculoDTO>(vehiculo);
+            FormatearKilometraje(vehiculoDTO);
+
+            return vehiculoDTO;
         }
 
         public async Task<bool> UpdateByPlacaAsync(string placa, ActualizarVehiculoDTO updateDto)
@@ -198,7 +240,12 @@ namespace LogiTransPro.API.Services.Vehiculo
             var vehiculo = await _context.Vehiculos
                 .FirstOrDefaultAsync(v => v.VehiculoId == id && v.Activo);
 
-            return vehiculo != null ? _mapper.Map<VehiculoDTO>(vehiculo) : null;
+            if (vehiculo == null) return null;
+
+            var vehiculoDTO = _mapper.Map<VehiculoDTO>(vehiculo);
+            FormatearKilometraje(vehiculoDTO);
+
+            return vehiculoDTO;
         }
 
         [Obsolete("Usar UpdateByPlacaAsync en su lugar")]
